@@ -1,1 +1,2 @@
-# This my portfolio with css 
+# Deployed link
+https://nurjamal2022.github.io/cvwithcss/
